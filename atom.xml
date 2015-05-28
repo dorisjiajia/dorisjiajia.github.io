@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[佳佳的博客]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://dorisjiajia.github.io/"/>
+  <updated>2015-05-27T15:17:25.478Z</updated>
+  <id>http://dorisjiajia.github.io/</id>
+  
+  <author>
+    <name><![CDATA[佳佳]]></name>
+    <email><![CDATA[1210269402@qq.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://dorisjiajia.github.io/2015/05/27/hello-world/"/>
+    <id>http://dorisjiajia.github.io/2015/05/27/hello-world/</id>
+    <published>2015-05-27T14:41:00.000Z</published>
+    <updated>2015-05-27T15:17:25.478Z</updated>
+    <content type="html"><![CDATA[<h1 id="欢迎来到Sheh伟伟的个人博客！">欢迎来到Sheh伟伟的个人博客！</h1><hr>
+<p>一直想折腾一个自己的博客，用来记录工作中学习到的点点滴滴。今天终于选定了一款博客主题——yilia，并成功发布了。</p>
+<p>本博客采用的是<a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>——一个开源的静态博客生成器。感谢Hexo的作者tommy351。采用的主题是<a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="external">yilia</a>，感谢yilia的作者litten。</p>
+<p>从上周六就开始倒腾这个博客了，期间遇到各种问题，差点半途放弃了，最后还是查资料，请教成功发布个人博客的人，把所有问题都解决了。其中，遇到最坑爹的一个问题是接入多说评论系统。搞不懂，为什么多说主页上不说明白点，搞得我走了好多弯路。一开始以为用QQ登录多说就可以了，最后才发现要点击多说主页的<strong>我要安装</strong>按钮注册多说才行。为什么是<strong>我要安装</strong>而不是<strong>我要注册</strong>呢？</p>
+<blockquote>
+<p>为什么要话这么多时间精力倒腾这个博客呢？</p>
+<ul>
+<li>记录学习笔记，分享学习心得</li>
+<li>宣传自己的一个小平台，认识一些志同道合的朋友</li>
+<li>好像很酷的样子，可以装X</li>
+<li>还有…也许的也许呢…</li>
+</ul>
+</blockquote>
+<p>好了，开篇就写这么多吧，博客开通第一天，留个纪念。以后会都抽时间写点技术笔记。</p>
+<blockquote>
+<p><strong>ps:</strong><br>我是程序猿一枚，开篇的文章名字就取<strong>Hello World</strong>吧，哈哈。。。</p>
+</blockquote>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="欢迎来到Sheh伟伟的个人博客！">欢迎来到Sheh伟伟的个人博客！</h1><hr>
+<p>一直想折腾一个自己的博客，用来记录工作中学习到的点点滴滴。今天终于选定了一款博客主题——yilia，并成功发布了。</p>
+<p>本博客采用的是<a href="http]]>
+    </summary>
+    
+      <category term="Hexo" scheme="http://dorisjiajia.github.io/tags/Hexo/"/>
+    
+      <category term="yilia" scheme="http://dorisjiajia.github.io/tags/yilia/"/>
+    
+  </entry>
+  
+</feed>
